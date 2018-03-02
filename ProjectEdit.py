@@ -1,19 +1,3 @@
-
-# Filename: Project.py
-# Author: Mark Holton
-# Last Edit: Febuary 17, 2017
-# Version Number: 1.0.a
-# Description: python code for setting up the input output interface for calender
-
-calender ={  }
-#form of calender example
-# "1":{'title':{ }, 'time':{ }, 'date':{ }, 'description':{ } }
-#title = Lecture 
-#time = 14:01-14:50
-#date = Month/Day/Year 04/20/17
-#description = string
-
-
 # Filename: Project.py
 # Author: Mark Holton
 # Last Edit: Febuary 17, 2017
